@@ -1,0 +1,24 @@
+{
+  "name": "pwa-tutorial",
+  "version": "1.0.0",
+  "description": "인프런 PWA 시작하기 수업을 위한 비공개 리포지토리입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshua1988/pwa-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshua1988/pwa-tutorial/issues"
+  },
+  "homepage": "https://github.com/joshua1988/pwa-tutorial#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
