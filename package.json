@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/joshua1988/pwa-tutorial#readme",
   "devDependencies": {
-    "lite-server": "^2.4.0"
+    "lite-server": "^2.4.0",
+    "webpack": "^4.17.1",
+    "sw-precache-webpack-plugin": "^0.11.5"
   }
 }
