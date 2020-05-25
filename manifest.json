@@ -1,0 +1,20 @@
+{
+    "short_name" : "Marvel Studio",
+    "name" : "pwa offline web",
+    "icons" : [
+        {
+            "src" : "images/icons/192x.png",
+            "type" : "image/png",
+            "sizes" : "192x192"
+        },
+        {
+            "src" : "images/icons/512x.png",
+            "type" : "image/png",
+            "sizes" : "512x512"
+        }
+    ],
+    "background_color" : "#FDFDFD",
+    "start_url" : "./",
+    "display" : "standalone",
+    "orientation" : "portrait"
+}
